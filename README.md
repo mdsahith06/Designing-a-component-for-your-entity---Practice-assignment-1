@@ -1,3 +1,8 @@
+
+
+
+
+
 you are developing an admin protal for the website where i will display all the user details.
 Now you need to prepare an card compoennt to display each user details.
 
